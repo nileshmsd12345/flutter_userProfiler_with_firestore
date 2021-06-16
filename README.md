@@ -1,16 +1,10 @@
-# flutter_app_with_firebase
+<p align="center">
+<img src="https://github.com/nileshmsd12345/flutter_userProfiler_with_firestore/blob/main/Screen1%20(3).jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="500" />
 
-A new Flutter application.
+<img src="https://github.com/nileshmsd12345/flutter_userProfiler_with_firestore/blob/main/Screen1%20(2).jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="500" />
+</p>
+<p align="center">
+<img src="https://github.com/nileshmsd12345/flutter_userProfiler_with_firestore/blob/main/Screen1%20(1).jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="500" />
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
